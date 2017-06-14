@@ -6,7 +6,7 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: New Material
+  m_Name: ShadowCollector
   m_Shader: {fileID: 4800000, guid: db41ffe7fccd2c843b554ecae7e1f07b, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
