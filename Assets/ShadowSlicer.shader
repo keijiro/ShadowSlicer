@@ -1,4 +1,4 @@
-﻿Shader "Hidden/Shadow Collector"
+﻿Shader "Hidden/ShadowSlicer"
 {
     SubShader
     {
