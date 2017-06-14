@@ -1,10 +1,14 @@
 fileFormatVersion: 2
 guid: 41fef7dd5c8b7a54fa30a95193c69a80
-timeCreated: 1497450919
+timeCreated: 1497455627
 licenseType: Pro
 MonoImporter:
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - _targetCamera: {instanceID: 0}
+  - _targetTexture: {instanceID: 0}
+  - _quadMesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+  - _collectorShader: {fileID: 4800000, guid: db41ffe7fccd2c843b554ecae7e1f07b, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
